@@ -1,0 +1,22 @@
+{
+  "name": "cvjff",
+  "version": "1.0.0",
+  "description": "Curriculum Vitae of Joaquin Flores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaquinFF/MyCV.git"
+  },
+  "author": "Joaquin Flores",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoaquinFF/MyCV/issues"
+  },
+  "homepage": "https://github.com/JoaquinFF/MyCV#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
